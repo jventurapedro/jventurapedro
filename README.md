@@ -1,7 +1,11 @@
 ## 👋 Hi, I’m @jventurapedro
+
 👀 I’m interested in DevOps
+
 🌱 I’m currently learning DevOps Engineer
+
 💞️ I’m looking to collaborate on real-time projects that improve human lifestyle
+
 📫 How to reach me: mail(goncalvesjventura@gmail.com)
 
 <!---
